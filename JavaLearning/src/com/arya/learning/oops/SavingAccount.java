@@ -1,8 +1,8 @@
 package com.arya.learning.oops;
 
-public class SavingsAccount extends BankAccount {
+public class SavingAccount extends BankAccount {
 
-    public SavingsAccount(String accountHolder, double balance) {
+    public SavingAccount(String accountHolder, double balance) {
         super(accountHolder, balance);
     }
 
